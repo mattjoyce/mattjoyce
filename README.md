@@ -14,6 +14,38 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 🤖 **Personal AI Infrastructure** - MCP servers, knowledge management tools, and AI context systems
 🛠️ **Developer Tools** - CLI utilities for Obsidian, token counting, and workflow automation
 
+## 💻 Tech Stack & Expertise
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI & Development
+![Claude AI](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-5B21B6?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+
+### Domain Expertise
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-00C4B3?style=for-the-badge&logo=plus&logoColor=white)
+![Conservation Tech](https://img.shields.io/badge/Conservation_Tech-4CAF50?style=for-the-badge&logo=leaf&logoColor=white)
+![Bioacoustics](https://img.shields.io/badge/Bioacoustics-FF6F00?style=for-the-badge&logo=soundcloud&logoColor=white)
+![AudioMoth](https://img.shields.io/badge/AudioMoth-Field_Recording-orange?style=for-the-badge)
+
+### Tools & Hardware
+![3D Printing](https://img.shields.io/badge/3D_Printing-OpenSCAD-red?style=for-the-badge)
+![CLI Tools](https://img.shields.io/badge/CLI_Tools-Developer-blue?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### Professional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-joyce)
+![Location](https://img.shields.io/badge/🇦🇺_Australia-Brisbane-green?style=for-the-badge)
+![Since](https://img.shields.io/badge/GitHub_Since-2010-purple?style=for-the-badge)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -28,6 +60,11 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 
 ## 🌟 Featured Projects
 
+### 🤖 Agent Infrastructure
+- **[AgenticLoop](https://github.com/mattjoyce/AgenticLoop)** - Autonomous agent orchestration: Frame/Plan/Act/Reflect loop with tool use and workspace memory
+- **[ductile](https://github.com/mattjoyce/ductile)** - LLM boundary layer for governed automation — plugin architecture, LLM as first-class operator
+- **[kanban-skill](https://github.com/mattjoyce/kanban-skill)** - AI skill for markdown-based kanban; built to coordinate multiple LLMs on a shared task board
+
 ### 🏗️ Core Infrastructure
 - **[mcp-construe](https://github.com/mattjoyce/mcp-construe)** - FastMCP server for Obsidian knowledge management with frontmatter filtering
 - **[senechal](https://github.com/mattjoyce/senechal)** - Personal API ecosystem for health data and automation
@@ -41,17 +78,17 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 ### 🛠️ Developer Tools
 - **[gotok](https://github.com/mattjoyce/gotok)** - LLM token counting CLI written in Go
 - **[mcp-persona-sessions](https://github.com/mattjoyce/mcp-persona-sessions)** - AI-powered interview practice and professional development
-- **[spaced-learning-tasks](https://github.com/mattjoyce/spaced-learning-tasks)** - Fibonacci-based spaced repetition with Google Tasks
+- **[roundtable-consensus](https://github.com/mattjoyce/roundtable-consensus)** - Auditable consensus for AI/human teams with full traceability
 
 ### 🎵 Audio & Creative
 - **[melspec-to-video](https://github.com/mattjoyce/melspec-to-video)** - Generate scrolling spectrogram videos from audio for research
 
 ## 💡 Current Focus
 
-- 🔬 Developing AI detection algorithms for endangered frog species
+- 🤖 Building agent infrastructure: governed automation with ductile + AgenticLoop
 - 🏥 Scaling healthcare AI initiatives across enterprise systems
-- 🌐 Building MCP (Model Context Protocol) servers for personal knowledge management
-- 🎯 Growing open-source community around conservation tech tools
+- 🌐 AI-mediated identity and discoverability (mattjoyce.ai)
+- 🐸 Bioacoustic AI for endangered species detection
 
 ## 🤝 Let's Connect
 
