@@ -61,8 +61,8 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 ## 🌟 Featured Projects
 
 ### 🤖 Agent Infrastructure
-- **[AgenticLoop](https://github.com/mattjoyce/AgenticLoop)** - Autonomous agent orchestration: Frame/Plan/Act/Reflect loop with tool use and workspace memory
-- **[ductile](https://github.com/mattjoyce/ductile)** - LLM boundary layer for governed automation — plugin architecture, LLM as first-class operator
+- **[AgenticLoop](https://github.com/mattjoyce/AgenticLoop)** (2026 • Go) - Autonomous agent orchestration service running a staged Frame/Plan/Act/Reflect loop with tool use, persistent workspace memory, and async execution
+- **[ductile](https://github.com/mattjoyce/ductile)** (2026 • Go) - LLM boundary layer for safe, governed automation: scoped capabilities, policy routing, reliable job execution, and auditable plugin operations; built for LLM-first plugin discovery
 - **[kanban-skill](https://github.com/mattjoyce/kanban-skill)** - AI skill for markdown-based kanban; built to coordinate multiple LLMs on a shared task board
 
 ### 🏗️ Core Infrastructure
