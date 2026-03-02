@@ -107,3 +107,6 @@ I'm always interested in collaborating on:
 💚 **Passionate about using technology to improve healthcare outcomes and protect biodiversity**
 
 </div>
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md).
