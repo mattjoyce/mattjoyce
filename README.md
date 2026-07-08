@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Matt Joyce
 
-**National Manager, Emerging Technology and Informatics** @ Calvary Health Care
+**Director, Research & Development** @ Calvary Health Care
 📍 Australia | 🔗 [LinkedIn](https://www.linkedin.com/in/matthew-joyce)
 
 ## 🚀 About Me
@@ -61,9 +61,10 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 ## 🌟 Featured Projects
 
 ### 🤖 Agent Infrastructure
+- **[ductile](https://github.com/mattjoyce/ductile)** (2026 • Go • **v1.0**) - An automation runtime AI agents can run, debug, and build for: scoped capabilities, policy routing, reliable job execution, and auditable plugin operations; LLM-first plugin discovery (`--skills` is the new `--help`)
+- **[localsend-go](https://github.com/mattjoyce/localsend-go)** (2026 • Go • **v1.0**) - LocalSend protocol as a library, CLI, and headless daemon for homelab and AI agents — LAN-local, secure, interoperable with the official apps; audit-first design and red-teamed before release
 - **[AgenticLoop](https://github.com/mattjoyce/AgenticLoop)** (2026 • Go) - Autonomous agent orchestration service running a staged Frame/Plan/Act/Reflect loop with tool use, persistent workspace memory, and async execution
-- **[ductile](https://github.com/mattjoyce/ductile)** (2026 • Go) - LLM boundary layer for safe, governed automation: scoped capabilities, policy routing, reliable job execution, and auditable plugin operations; built for LLM-first plugin discovery
-- **[kanban-skill](https://github.com/mattjoyce/kanban-skill)** - AI skill for markdown-based kanban; built to coordinate multiple LLMs on a shared task board
+- **[kanban-skill](https://github.com/mattjoyce/kanban-skill)** ⭐ - AI skill for markdown-based kanban; built to coordinate multiple LLMs on a shared task board
 
 ### 🏗️ Core Infrastructure
 - **[mcp-construe](https://github.com/mattjoyce/mcp-construe)** - FastMCP server for Obsidian knowledge management with frontmatter filtering
@@ -76,6 +77,7 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 - **[fieldrecording](https://github.com/mattjoyce/fieldrecording)** - 3D designs for AudioMoth field recording enclosures
 
 ### 🛠️ Developer Tools
+- **[luminary-prompts](https://github.com/mattjoyce/luminary-prompts)** ⭐ (TypeScript) - Paired-thinker prompts for design review and code audit: eight stereo lenses drawn from sixteen luminaries, so a review is argued from complementary perspectives
 - **[gotok](https://github.com/mattjoyce/gotok)** - LLM token counting CLI written in Go
 - **[mcp-persona-sessions](https://github.com/mattjoyce/mcp-persona-sessions)** - AI-powered interview practice and professional development
 - **[roundtable-consensus](https://github.com/mattjoyce/roundtable-consensus)** - Auditable consensus for AI/human teams with full traceability
@@ -85,7 +87,7 @@ I build at the intersection of **healthcare AI innovation** and **conservation t
 
 ## 💡 Current Focus
 
-- 🤖 Building agent infrastructure: governed automation with ductile + AgenticLoop
+- 🤖 Building agent infrastructure: ductile (v1.0) for governed automation, localsend-go (v1.0) for agent file transport, AgenticLoop for orchestration
 - 🏥 Scaling healthcare AI initiatives across enterprise systems
 - 🌐 AI-mediated identity and discoverability (mattjoyce.ai)
 - 🐸 Bioacoustic AI for endangered species detection
